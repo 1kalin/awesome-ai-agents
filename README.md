@@ -114,6 +114,28 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AfrexAI OpenClaw Skills](https://afrexai-cto.github.io/agent-setup/)
+13 free AI agent skills for business automation
+
+<details>
+
+### Category
+General purpose, Business, Multi-agent
+
+### Description
+- Collection of 13 free OpenClaw/ClawHub skills for business automation
+- Skills include: prospect researcher, cold email writer, competitor analyst, meeting prep, LinkedIn writer, ICP builder, CRM manager, invoice generator, SEO writer, daily briefing, objection handler, email triager, humanizer
+- Built for the OpenClaw AI agent platform
+- Complemented by free tools: AI Revenue Calculator, Agent Setup Wizard, Context Packs Store
+
+### Links
+- [AI Revenue Calculator](https://afrexai-cto.github.io/ai-revenue-calculator/)
+- [Agent Setup Wizard](https://afrexai-cto.github.io/agent-setup/)
+- [Context Packs Store](https://afrexai-cto.github.io/context-packs/)
+- [GitHub](https://github.com/afrexai-cto)
+</details>
+
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
